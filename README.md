@@ -1,4 +1,4 @@
-# Saveyouriconset
+# Save your icon set
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
