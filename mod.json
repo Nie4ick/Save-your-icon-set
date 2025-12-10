@@ -1,0 +1,27 @@
+{
+    "geode": "4.10.0",
+    "gd": {
+        "win": "2.2074",
+        "android": "2.2074",
+        "mac": "2.2074",
+        "ios": "2.2074"
+    },
+    "id": "nie4ick.save-your-icon-set",
+    "name": "Save Your Icon Set",
+    "version": "v1.0.0",
+    "developer": "Nie4ick",
+    "description": "Save and manage multiple icon sets to quickly switch between different looks!",
+    "repository": "https://github.com/Nie4ick/Save-your-icon-set",
+    "dependencies": {
+        "geode.node-ids": ">=v1.20.0"
+    },
+    "resources": {
+        "files": [
+            "resources/icon.png"
+        ]
+    },
+    "tags": ["customization", "utility", "interface"],
+    "links": {
+        "source": "https://github.com/Nie4ick/Save-your-icon-set"
+    }
+}

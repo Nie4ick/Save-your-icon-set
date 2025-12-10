@@ -1,6 +1,4 @@
-# Saveyouriconset
-
-<img src="logo.png" width="150" alt="the mod's logo" />
+# Save Your Icon Set
 
 A Geometry Dash mod that allows you to save and manage multiple icon sets, making it easy to switch between different looks instantly!
 
