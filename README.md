@@ -26,6 +26,3 @@ A Geometry Dash mod that allows you to save and manage multiple icon sets, makin
 - You can have different sets for different level styles
 - Update existing sets anytime by clicking "Save"
 
-## Support
-
-If you encounter any issues or have suggestions, feel free to report them on the mod's page!
